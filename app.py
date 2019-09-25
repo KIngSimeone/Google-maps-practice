@@ -4,7 +4,7 @@ from flask_googlemaps import Map
 
 app = Flask(__name__)
 
-app.config['GOOGLEMAPS_KEY'] = "AIzaSyC_v59Qddii5_xD4IWoDqujUI25pxJfywU"
+app.config['GOOGLEMAPS_KEY'] = "AIzaSyDBsiPRXfcKausDDR1os1MtEIVCrdoABhE"
 
 
 @app.route('/')
